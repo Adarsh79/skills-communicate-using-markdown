@@ -13,3 +13,9 @@
 #Its very easy to print the output in python. It goes like...
 print("Hello, World")
 ```
+
+### Here's a task list for you:
+- [X] Read the intro on markdown
+- [X] Learn how to add images
+- [X] How do you print "Hello, world" in python?
+- [ ] Merge the start-markdown pull request
