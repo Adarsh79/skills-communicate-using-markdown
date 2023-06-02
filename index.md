@@ -7,3 +7,9 @@
 
 ### By the way, the logo for Markdown looks something like this...
 ![Image of Markdown](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/2560px-Markdown-mark.svg.png)
+
+### Let me tell you an interesting fact about the Python language!
+```Python
+#Its very easy to print the output in python. It goes like...
+print("Hello, World")
+```
